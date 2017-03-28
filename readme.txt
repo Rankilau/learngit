@@ -8,3 +8,4 @@ add
 dev is working
 Hello my friend,welcome!
 i have a dau
+1+1=2
