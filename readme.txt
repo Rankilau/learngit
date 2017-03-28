@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Great a new branch is quick and simple.
 add
 Hello my friend,welcome!
+i have a dau
